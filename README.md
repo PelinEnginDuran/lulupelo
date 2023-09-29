@@ -1,4 +1,4 @@
-Bu proje de  HTML CSS JAVASCRIPT ve Scroll Reveal.js kütüphanesi kullanılarak responsive yapıda bir web sitesi tasarlanmıştır.
+Bu proje de  HTML CSS ve Scroll Reveal.js kütüphanesi kullanılarak responsive yapıda bir web sitesi tasarlanmıştır.
 
 Projenin gifini inceleyebilirsiniz;
 
